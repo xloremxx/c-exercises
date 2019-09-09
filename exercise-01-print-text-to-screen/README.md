@@ -1,3 +1,6 @@
+
+Write a program that prints 'Hello World' to the screen.
+
 ```c
 #include <stdio.h>
 
