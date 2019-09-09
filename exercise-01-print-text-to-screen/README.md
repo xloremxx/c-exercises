@@ -12,3 +12,9 @@ int main(int argc, char *argv[])
   return 0;
 }
 ```
+
+```
+cc -o main.o -c main.c
+cc -o app main.o
+TEXT TO BE PRINTED
+```
