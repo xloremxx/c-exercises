@@ -25,3 +25,16 @@ int main(int argc, char *argv[])
   return 0;
 }
 ```
+
+```
+cc -o main.o -c main.c
+cc -o app main.o
+Name: Alice
+Hi Alice, nice to see you again!
+
+Press ENTER or type command to continue
+cc -o main.o -c main.c
+cc -o app main.o
+Name: Tom
+Go away stranger!
+```
